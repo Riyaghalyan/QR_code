@@ -6,7 +6,7 @@ This Python script allows you to generate QR codes for any URL and customize the
 
 1. Install the necessary dependencies by running the following command:
 
-2. Clone the repository:
+2. Clone the repository: https://github.com/Riyaghalyan/QR_code
 
 3. Navigate to the project directory:
 
